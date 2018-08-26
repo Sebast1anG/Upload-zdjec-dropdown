@@ -1,0 +1,11 @@
+img{
+  max-width:200px;
+  max-height: 300px;
+  
+}
+input[type=file]{
+padding:10px;
+height: 180px;
+width: 180px;
+background-image: url("https://i.ytimg.com/vi/XIMLoLxmTDw/hqdefault.jpg")
+}
